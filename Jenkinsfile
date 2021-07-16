@@ -62,7 +62,7 @@ agent {
         
         stage('Stage 3') {
             steps {
-                echo 'Wel come to Stage3 '  
+                echo 'Welcome to Stage3 '  
                 echo  'Stage3 '
             }
             
